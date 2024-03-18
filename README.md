@@ -4,9 +4,9 @@
 
     List all jobs: GET http://localhost:3000/jobs.
 
+TEST JSON:
 
-    TEST JSON:
-    {
+{
 
 "url": "https://example.com/job-details",
 "employer_name": "Acme Corporation",
